@@ -1,2 +1,2 @@
 # Analiser TikTok Creator
-Sistema automatizado de análise e otimização de vídeos afiliados para TikTok Shop Brasil.
+Automated system to analyze and optimize TikTok Shop affiliate videos.
